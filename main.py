@@ -35,7 +35,7 @@ def main():
     
     # TODO: print out the results, each pair in it's own line
     for thread_index, start_time in result:
-        print(thred_index, start_time)
+        print(thread_index, start_time)
 
 
 
